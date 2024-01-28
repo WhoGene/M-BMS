@@ -4,10 +4,10 @@ I'll be uploading here as I build the parts of it, and many aspects work standal
 
 # Time per battery load current a5.lisp
 It's a vesc based battery load testing utitity ideal for:
-;  - checking varous configurations aginst each other
-;  - validating power delivery
-;  - determining relationship between loaded and unloaded voltages under amp load
-;  - cell health checkup as it ages
+###  - checking varous configurations aginst each other
+###  - validating power delivery
+###  - determining relationship between loaded and unloaded voltages under amp load
+###  - cell health checkup as it ages
 
 ### Pack to Cell Conversions
 It takes your s and p count from your pack and calculates the cell values after loading the whole pack.
