@@ -9,7 +9,7 @@ It's a battery load testing utitity ideal for:
 ;  - cell health checkup as it ages
 
 It should output the following after you upload it:
-# "test time"
+### "test time"
 2.359900f32
 # "end phase current"
 68.875969f32
