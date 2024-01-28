@@ -1,5 +1,6 @@
 # M-BMS
 Modular BMS High Level Control Logic
+I'll be uploading here as I build the parts of it, and many aspects work standalone for multi-purpose like the following:
 
 # Time per battery load current a5.lisp
 It's a battery load testing utitity ideal for:
