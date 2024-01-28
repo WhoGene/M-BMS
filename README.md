@@ -9,6 +9,10 @@ It's a battery load testing utitity ideal for:
 ;  - determining relationship between loaded and unloaded voltages under amp load
 ;  - cell health checkup as it ages
 
+### Pack to Cell Conversions
+It takes your s and p count from your pack and calculates the cell values after loading the whole pack.
+You will need to have vesc hooked up to a motor or other resistive block where the 3 pahse wires can dump the shorted energy for the duration of the test
+
 It should output the following after you upload it:
 ### "test time"
 2.359900f32
